@@ -5,8 +5,8 @@ Useful for quick presentations that can be generated using AI with prompted Mark
 
 # Installation
 1. Donwload mipt.css and move it to your project directory
-2. Run your markdown file by `marp --allow-local-files filename.md --theme mipt.css`
-3. Use `--pdf` if needed
+2. Run your markdown file by `marp --allow-local-files filename.md --theme mipt.css`. Use `--pdf` if needed
+3. Add start config to your `.md` file that shown below
 
 ![[1jpg]('example/1jpg.png')](https://raw.githubusercontent.com/qerve/mipt-marp/main/example/1jpg.png)
 ![[2jpg]('example/2jpg.png')](https://raw.githubusercontent.com/qerve/mipt-marp/main/example/2jpg.png)
