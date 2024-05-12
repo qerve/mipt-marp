@@ -1,5 +1,6 @@
 # mipt-marp
 Simple marp presentation for MIPT routine
+
 Useful for quick presentations that can be generated using AI with prompted Markdown syntax for marp
 
 # Installation
