@@ -4,14 +4,15 @@ Simple marp presentation for MIPT routine
 Useful for quick presentations that can be generated using AI with prompted Markdown syntax for marp
 
 # Installation
-1. Donwload [**mipt.css**]('mipt.css') and move it to your project directory
+1. Donwload [**mipt.css**]('(https://github.com/qerve/mipt-marp/blob/0ba50e01039ef3be55fe9be34920e0dcfad01b50/mipt.css)') and move it to your project directory
 2. Run your markdown file by `marp --allow-local-files filename.md --theme mipt.css`. Use `--pdf` if needed
 3. Add start config to your `.md` file that shown below
+4. If any problems occur, see the example
 
 ![[1jpg]('example/1jpg.png')](https://raw.githubusercontent.com/qerve/mipt-marp/main/example/1jpg.png)
 ![[2jpg]('example/2jpg.png')](https://raw.githubusercontent.com/qerve/mipt-marp/main/example/2jpg.png)
 
-# Config
+# Start config
 ```
 ---
 marp: true
