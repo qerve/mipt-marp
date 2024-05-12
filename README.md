@@ -1,2 +1,2 @@
 # mipt-marp
-Simple marp presentation for mipt routine
+Simple marp presentation for MIPT routine
