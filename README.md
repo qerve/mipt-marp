@@ -12,7 +12,8 @@ Useful for quick presentations that can be generated using AI with prompted Mark
 ![[2jpg]('example/2jpg.png')](https://raw.githubusercontent.com/qerve/mipt-marp/main/example/2jpg.png)
 
 # Config
-```---
+```
+---
 marp: true
 theme: mipt
 _class: lead
@@ -21,4 +22,5 @@ math: katex
 header: 'Header text ![header](https://raw.githubusercontent.com/qerve/mipt-marp/main/header_white.png)'
 title: titlename
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
----```
+---
+```
