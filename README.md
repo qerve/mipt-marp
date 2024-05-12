@@ -4,7 +4,7 @@ Simple marp presentation for MIPT routine
 Useful for quick presentations that can be generated using AI with prompted Markdown syntax for marp
 
 # Installation
-1. Donwload **mipt.css** and move it to your project directory
+1. Donwload [**mipt.css**]('mipt.css') and move it to your project directory
 2. Run your markdown file by `marp --allow-local-files filename.md --theme mipt.css`. Use `--pdf` if needed
 3. Add start config to your `.md` file that shown below
 
