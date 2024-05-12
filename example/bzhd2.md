@@ -1,10 +1,10 @@
 ---
 marp: true
-theme: mipt2
+theme: mipt
 _class: lead
 paginate: true
 math: katex
-header: 'Зачет по БЖД ![header](header_white.png)'
+header: 'Зачет по БЖД ![header](https://raw.githubusercontent.com/qerve/mipt-marp/main/header_white.png)'
 title: ОБЖ
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
