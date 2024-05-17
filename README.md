@@ -3,8 +3,8 @@ Simple marp presentation for MIPT routine
 
 Useful for quick presentations that can be generated using AI with prompted Markdown syntax for marp
 
-<img src="1jpg.png" width="200">
-<img src="2jpg.png" width="200">
+<img src="example/1jpg.png" width="200">
+<img src="example/2jpg.png" width="200">
 
 # Installation
 1. Download [mipt.css](https://github.com/qerve/mipt-marp/blob/0ba50e01039ef3be55fe9be34920e0dcfad01b50/mipt.css "download") and move it to your project directory
